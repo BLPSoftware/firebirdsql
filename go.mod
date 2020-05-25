@@ -1,4 +1,4 @@
-module github.com/nakagami/firebirdsql
+module github.com/BLPSoftware/firebirdsql
 
 go 1.13
 
